@@ -10,5 +10,7 @@ Nodos para el UI del dashboard:
 https://flows.nodered.org/node/node-red-dashboard
 
 Para acceder al entorno gráfico del dashboard:
+
 "ip_de_la_maquina":"Puerto_Node-Red"/ui/ 
-127.0.0.1:1880/ui/
+
+Ejemplo: 127.0.0.1:1880/ui/
