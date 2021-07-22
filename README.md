@@ -10,4 +10,4 @@ Nodos para el UI del dashboard:
 https://flows.nodered.org/node/node-red-dashboard
 
 Para acceder al entorno gráfico del dashboard:
-<ip>:<Puerto Node-Red>/ui/
+"ip_de_la_maquina":"Puerto_Node-Red"/ui/
