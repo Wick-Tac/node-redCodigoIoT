@@ -13,4 +13,5 @@ Para acceder al entorno gráfico del dashboard:
 
 "ip_de_la_maquina":"Puerto_Node-Red"/ui/ 
 
-Ejemplo: 127.0.0.1:1880/ui/
+
+Ejemplo: 127.0.0.1:1880/ui/ 
